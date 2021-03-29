@@ -99,7 +99,7 @@ header a:hover {
     position: absolute;
     width: 100%;
     height: 100%;
-    background-image: url("/assets/images/craig-mckay-jmURdhtm7Ng-unsplash\ \(3\).jpg");
+    background-image: url("../images/craig-mckay-jmURdhtm7Ng-unsplash\ \(3\).jpg");
     background-repeat: no-repeat;
     /* background-size: contain; */
     background-position: right;
